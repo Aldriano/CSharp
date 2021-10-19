@@ -1,0 +1,11 @@
+C:\cSharp\testemenu\bin\Debug\testemenu.exe.config
+C:\cSharp\testemenu\bin\Debug\testemenu.exe
+C:\cSharp\testemenu\bin\Debug\testemenu.pdb
+C:\cSharp\testemenu\obj\Debug\testemenu.csproj.AssemblyReference.cache
+C:\cSharp\testemenu\obj\Debug\testemenu.Properties.Resources.resources
+C:\cSharp\testemenu\obj\Debug\testemenu.csproj.GenerateResource.cache
+C:\cSharp\testemenu\obj\Debug\testemenu.csproj.CoreCompileInputs.cache
+C:\cSharp\testemenu\obj\Debug\testemenu.exe
+C:\cSharp\testemenu\obj\Debug\testemenu.pdb
+C:\cSharp\testemenu\obj\Debug\testemenu.FrmLogin.resources
+C:\cSharp\testemenu\obj\Debug\testemenu.View.FrmMenu.resources
